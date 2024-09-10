@@ -20,7 +20,7 @@ public class Kendaraan {
         this.kecepatanMaks = kecepatanMaks;
         this.jenisMesin = jenisMesin;
     }
-    //Getter dan Setter untuk merek
+    //Getter dan Setter untuk nama
     public String getNama() {
         return nama;
     }
